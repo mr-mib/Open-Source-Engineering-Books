@@ -52,7 +52,7 @@ Here is an example. Feel free to copy, paste and edit it with your links to your
     -  
     - 
 - L
-    -  
+    - 
     - 
 - M
     - [mr-mib](https://github.com/mr-mib)(
@@ -77,7 +77,11 @@ Here is an example. Feel free to copy, paste and edit it with your links to your
     -  
     - 
 - S
-    -  
+    - [sibylassana95](http://github.com/sibylassana95/)(
+   [LINKEDIN](https://www.linkedin.com/in/sibylassana/)
+   , [X(ex-Twitter)](https://twitter.com/sibyog13)
+   , [INSTAGRAM](https://instagram.com/siby_global)
+    )   
     - 
 - T
     -  
