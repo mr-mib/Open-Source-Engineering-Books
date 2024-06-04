@@ -10,10 +10,16 @@ We welcome contributions from everyone! Please check the [CONTRIBUTING](CONTRIBU
 
 Please ensure that each book or folder is properly named and follows the naming conventions which is:
 
- ```markdown
-   - NAMING CONVENTION OF A FOLDER: lowercase-and-dash-between-each-word
-   - NAMING CONVENTION OF A BOOK: Title-Author(s)-other-information
-   ```
+```markdown
+- NAMING CONVENTION OF A FOLDER: lowercase-and-dash-between-each-word
+- NAMING CONVENTION OF A BOOK: Title-Author(s)-other-information
+```
+
+Thanks to all contributors 👏🏽
+
+<a href="https://github.com/mr-mib/Open-Source-Engineering-Books/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mr-mib/Open-Source-Engineering-Books" />
+</a>
 
 ## License
 
