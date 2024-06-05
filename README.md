@@ -1,3 +1,7 @@
+  
+  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  
+
 # Open Source Engineering Books
 
 Welcome to the Open Source Engineering Books repository! This collaborative project aims to gather a diverse collection of PDF books covering engineering, sciences, computer science, soft skills, and more. Our goal is to promote accessibility, knowledge sharing, and continuous learning. Users like you contribute to its growth.
