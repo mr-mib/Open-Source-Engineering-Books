@@ -23,7 +23,7 @@ Here is an example. Feel free to copy, paste and edit it with your links to your
   -
 - ## B
   -
-- ## C
+- C
   - [cisse410](http://github.com/cisse410/) (
     [LINKEDIN](https://www.linkedin.com/in/issakha-cisse/))
   -
