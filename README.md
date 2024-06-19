@@ -1,3 +1,7 @@
+  
+  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  
+
 # Open Source Engineering Books
 
 Welcome to the Open Source Engineering Books repository! This collaborative project aims to gather a diverse collection of PDF books covering engineering, sciences, computer science, soft skills, and more. Our goal is to promote accessibility, knowledge sharing, and continuous learning. Users like you contribute to its growth.
@@ -10,10 +14,16 @@ We welcome contributions from everyone! Please check the [CONTRIBUTING](CONTRIBU
 
 Please ensure that each book or folder is properly named and follows the naming conventions which is:
 
- ```markdown
-   - NAMING CONVENTION OF A FOLDER: lowercase-and-dash-between-each-word
-   - NAMING CONVENTION OF A BOOK: Title-Author(s)-other-information
-   ```
+```markdown
+- NAMING CONVENTION OF A FOLDER: lowercase-and-dash-between-each-word
+- NAMING CONVENTION OF A BOOK: Title-Author(s)-other-information
+```
+
+Thanks to all contributors 👏🏽
+
+<a href="https://github.com/mr-mib/Open-Source-Engineering-Books/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mr-mib/Open-Source-Engineering-Books" />
+</a>
 
 ## License
 
