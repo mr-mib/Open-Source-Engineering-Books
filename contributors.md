@@ -33,7 +33,11 @@ Here is an example. Feel free to copy, paste and edit it with your links to your
     , [X(ex-Twitter)](https://twitter.com/daoodaba975)
     , [INSTAGRAM](https://instagram.com/daoodaba975)
     )
-  -
+  - [diallodev221](https://github.com/diallodev221)(
+    [LINKEDIN]([link-to-your-linkedIn](https://www.linkedin.com/in/diallodev/))
+    , [X(ex-Twitter)](https://x.com/diallo__dev)
+    , [INSTAGRAM](https://www.instagram.com/diallodev_2.0/)
+    )
   -
 - ## E
   -
